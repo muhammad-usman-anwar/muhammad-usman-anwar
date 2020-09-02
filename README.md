@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 ### Languages and Tools
 -->
+![Usman's github stats](https://github-readme-stats.vercel.app/api?username=muhammad-usman-anwar&count_private=true)
